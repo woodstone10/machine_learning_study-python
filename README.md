@@ -1,1 +1,2 @@
-# machine_learning_study-python
+# Study on Machine Learning
+- Supervised 
